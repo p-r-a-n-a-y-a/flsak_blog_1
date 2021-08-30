@@ -1,0 +1,17 @@
+{
+    "url":
+    {
+        "fb_url":"https://facebook.com",
+        "tw_url":"https://twitter.com",
+        "ln_url":"https://linkdin.com",
+        "about_me":"Programmer",
+        "full_detail":"no idea",
+        "title":"MY-BL0G",
+        "subtitle":"made by @pranaya neupane",
+        "username":"username",
+        "password":"password",
+        "path":"//home//professor//Project//flask_project_1//static//img",
+        "blog_num":"3"
+
+    }
+}
